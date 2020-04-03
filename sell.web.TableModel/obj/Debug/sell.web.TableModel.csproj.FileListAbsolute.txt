@@ -1,0 +1,7 @@
+D:\Visual Studio\sell.web\sell.web.TableModel\bin\Debug\sell.web.TableModel.dll
+D:\Visual Studio\sell.web\sell.web.TableModel\bin\Debug\sell.web.TableModel.pdb
+D:\Visual Studio\sell.web\sell.web.TableModel\obj\Debug\sell.web.TableModel.dll
+D:\Visual Studio\sell.web\sell.web.TableModel\obj\Debug\sell.web.TableModel.pdb
+D:\Visual Studio\sell.web\sell.web.TableModel\bin\Debug\Dapper.dll
+D:\Visual Studio\sell.web\sell.web.TableModel\bin\Debug\Dapper.xml
+D:\Visual Studio\sell.web\sell.web.TableModel\obj\Debug\sell.web.TableModel.csproj.CopyComplete

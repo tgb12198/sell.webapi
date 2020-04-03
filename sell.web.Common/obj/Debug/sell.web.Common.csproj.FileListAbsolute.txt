@@ -1,0 +1,4 @@
+D:\Visual Studio\sell.web\sell.web.Common\bin\Debug\sell.web.Common.dll
+D:\Visual Studio\sell.web\sell.web.Common\bin\Debug\sell.web.Common.pdb
+D:\Visual Studio\sell.web\sell.web.Common\obj\Debug\sell.web.Common.dll
+D:\Visual Studio\sell.web\sell.web.Common\obj\Debug\sell.web.Common.pdb

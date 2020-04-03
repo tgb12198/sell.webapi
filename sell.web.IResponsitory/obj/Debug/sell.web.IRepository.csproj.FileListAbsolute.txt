@@ -1,0 +1,10 @@
+D:\Visual Studio\sell.web\sell.web.IResponsitory\bin\Debug\sell.web.IRepository.dll
+D:\Visual Studio\sell.web\sell.web.IResponsitory\bin\Debug\sell.web.IRepository.pdb
+D:\Visual Studio\sell.web\sell.web.IResponsitory\obj\Debug\sell.web.IRepository.dll
+D:\Visual Studio\sell.web\sell.web.IResponsitory\obj\Debug\sell.web.IRepository.pdb
+D:\Visual Studio\sell.web\sell.web.IResponsitory\obj\Debug\sell.web.IRepository.csprojAssemblyReference.cache
+D:\Visual Studio\sell.web\sell.web.IResponsitory\bin\Debug\sell.web.TableModel.dll
+D:\Visual Studio\sell.web\sell.web.IResponsitory\bin\Debug\Dapper.dll
+D:\Visual Studio\sell.web\sell.web.IResponsitory\bin\Debug\sell.web.TableModel.pdb
+D:\Visual Studio\sell.web\sell.web.IResponsitory\bin\Debug\Dapper.xml
+D:\Visual Studio\sell.web\sell.web.IResponsitory\obj\Debug\sell.web.IRepository.csproj.CopyComplete

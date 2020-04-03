@@ -1,0 +1,9 @@
+D:\Visual Studio\sell.web\sell.web.DataBase\bin\Debug\sell.web.DataBase.dll.config
+D:\Visual Studio\sell.web\sell.web.DataBase\bin\Debug\sell.web.DataBase.dll
+D:\Visual Studio\sell.web\sell.web.DataBase\bin\Debug\sell.web.DataBase.pdb
+D:\Visual Studio\sell.web\sell.web.DataBase\bin\Debug\Dapper.dll
+D:\Visual Studio\sell.web\sell.web.DataBase\bin\Debug\MySql.Data.dll
+D:\Visual Studio\sell.web\sell.web.DataBase\bin\Debug\Dapper.xml
+D:\Visual Studio\sell.web\sell.web.DataBase\obj\Debug\sell.web.DataBase.csproj.CopyComplete
+D:\Visual Studio\sell.web\sell.web.DataBase\obj\Debug\sell.web.DataBase.dll
+D:\Visual Studio\sell.web\sell.web.DataBase\obj\Debug\sell.web.DataBase.pdb

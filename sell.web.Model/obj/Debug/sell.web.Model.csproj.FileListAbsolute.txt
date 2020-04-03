@@ -1,0 +1,8 @@
+D:\Visual Studio\sell.web\sell.web.Model\bin\Debug\sell.web.Model.dll
+D:\Visual Studio\sell.web\sell.web.Model\bin\Debug\sell.web.Model.pdb
+D:\Visual Studio\sell.web\sell.web.Model\obj\Debug\sell.web.Model.dll
+D:\Visual Studio\sell.web\sell.web.Model\obj\Debug\sell.web.Model.pdb
+D:\Visual Studio\sell.web\sell.web.Model\bin\Debug\sell.web.Common.dll
+D:\Visual Studio\sell.web\sell.web.Model\bin\Debug\sell.web.Common.pdb
+D:\Visual Studio\sell.web\sell.web.Model\obj\Debug\sell.web.Model.csprojAssemblyReference.cache
+D:\Visual Studio\sell.web\sell.web.Model\obj\Debug\sell.web.Model.csproj.CopyComplete
